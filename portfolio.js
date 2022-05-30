@@ -5,7 +5,7 @@ export const greetings = {
   title: "Hi all, I'm Alfaiz",
   description:
     'I am a developer who loves building scalable, performant apps. I am passionate about JavaScript, react-native, Application development. Interested in Continuation of learning and Cooperation with excellent people.',
-  resumeLink: 'https://drive.google.com/drive/u/0/folders/13Ng_UCG9_tx2tGCO9maV-WzsTfKEynki',
+  resumeLink: 'https://drive.google.com/file/d/1ieyf_LGZor8DAFFVvG4tVf_FXnCsiw_K/view',
 };
 
 export const openSource = {
