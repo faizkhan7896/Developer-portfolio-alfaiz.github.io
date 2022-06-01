@@ -264,13 +264,12 @@ export const projects = [
 
 export const feedbacks = [
   {
-    name: 'John Smith',
+    name: 'gwilar',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'Fantastic seller once again, he understood the requirements of the project perfectly. Clearly very experienced as he had great solutions for unique problems. Was very patient on small modifications that we needed and helped us through to getting it live on the App/Google Play Store Thanks again!',
   },
   {
-    name: 'John Smith',
-    feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+    name: 'powerwritersusa',
+    feedback: 'This guy is the real deal. Highly responsive & easy to reach - I highly recommend him for iOS dev projects!',
   },
 ];
