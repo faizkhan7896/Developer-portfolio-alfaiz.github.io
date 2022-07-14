@@ -10,7 +10,7 @@ const ProjectsCard = ({ data }) => {
       <Fade bottom duration={2000}>
         <Card className='shadow-lg--hover shadow mt-4'>
           <CardBody>
-            <h3>{data.name}</h3>
+            <h5>{data.name}</h5>
             {/* <img
               src={data.Screenshots}
               style={{
