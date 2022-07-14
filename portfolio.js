@@ -27,7 +27,7 @@ export const skillsSection = {
   subTitle: 'CRAZY REACT-NATIVE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
   data: [
     {
-      title: 'Android and Ios Application Development',
+      title: 'Android and IOS Application Development',
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji('⚡ Building scalable, performant Apps using React Native'),
@@ -178,7 +178,7 @@ export const SkillBars = [
   },
   {
     Stack: 'Programming',
-    progressPercentage: '60',
+    progressPercentage: '65',
   },
 ];
 
@@ -193,7 +193,7 @@ export const educationInfo = [
   {
     schoolName: 'Makhanlal Chaturvedi University',
     subHeader: 'Bachelors in Computer Application',
-    duration: 'September 2021 - Present',
+    duration: 'September 2021 - running',
     desc: 'Participated in the research of XXX and published 3 papers.',
     descBullets: ['Currently running a 1st year'],
   },
@@ -212,7 +212,7 @@ export const experience = [
   //   // ],
   // },
   {
-    role: 'React Native Developer (Intern)',
+    role: 'React Native Developer',
     company: 'Avalanche Infotech Pvt Ltd',
     companylogo: '/img/icons/common/Avlanche.jpeg',
     date: 'Feb 2020 - Aug 2021',
@@ -223,41 +223,41 @@ export const experience = [
     company: 'Technorizen Software Solution',
     companylogo: '/img/icons/common/Techno.jpeg',
     date: 'Sept 2021 (Present)',
-    desc: 'Worked as React-Native developer to create a Apps in which I integrated computer vision AI model (built by the team of Technorizen) to process YouTube URLs and show Real Time processing on Apps using React Native.',
+    desc: 'Worked as React-Native developer to create a Apps (built by the team of Technorizen) to process YouTube URLs and show Real Time processing on Apps using React Native.',
   },
 ];
 
 export const projects = [
   {
     name: 'Viceseo (Recruitment Managing Platform)',
-    Screenshots: '/img/icons/common/first.png',
+    // Screenshots: '/img/icons/common/first.png',
     desc: 'WITH OUR IOS APP IT IS A SIMPLE, FAST, AND EASY TO MANAGE YOUR ACCOUNT AND NEW DRIVERS! • KEEP YOUR CANDIDATES AND HIRING TEAM WITHIN REACH WITH OUR MOBILE APP. • REDUCE TIME TO HIRE AND EASILY MANAGE NEW CDL DRIVERS • PROVIDES STATISTICS FOR HOW MANY POTENTIAL DRIVERS YOUR COMPANY RECEIVED DAY-MONTH-YEAR ',
     link: 'https://apps.apple.com/us/app/viceseo/id1601840773',
   },
   {
     name: 'CodeMode',
     desc: 'It is an online platform for students to take the tests and teachers to create those tests - all examinations covered. CodeMode provides students insight into their preparation and performance using advance data analysis. Students can see their strength and weakness by subject and topics, compare themselves at national and international level, understand their improvement over a period of time, find test taking pattern, access wide variety of practice tests and get a clear picture on speed as well as accuracy. The more you practice, more you will know about yourself and better you will become - that is a how CodeMode helps you.',
-    Screenshots: '/img/icons/common/second.png',
+    // Screenshots: '/img/icons/common/second.png',
     link: 'https://play.google.com/store/apps/details?id=com.perfectice',
   },
   {
     name: 'Binbin Recycle',
     desc: 'Bin bin Recycle is a recycle for Cash apps. Call us for recycling and get cash on the Spot. Bin bin Recycle is a recycle for Cash apps. Call us for recycling and get cash on the Spot',
-    Screenshots: '/img/icons/common/third.png',
+    // Screenshots: '/img/icons/common/third.png',
     link: 'https://play.google.com/store/apps/details?id=com.bin_recycle',
   },
   {
     name: 'Speed Meeting - Connect Online',
     desc: 'We are connecting people. Someone a Girlfriend or just a friend or a contact inside the bankworld, or an investor. People share their interest with others and connect. You make a profile. Write your information and when you login you can choose between private/business. If you chose private you enter the groups where other people are. this is speed meeting. 60 seconds you talk with 5 others. After 60 seconds you get a popup. Where it stands. Do you wanna connect with this person. Yes/no',
     // github: 'https://github.com/1hanzla100',
-    Screenshots: '/img/icons/common/fourth.png',
+    // Screenshots: '/img/icons/common/fourth.png',
     link: 'https://apps.apple.com/app/1606940095',
   },
   {
     name: 'InLock - Encrypt Decrypt',
     desc: 'InLock is an application that provides a range of encryption and decryption tools. Many traditional ciphers are implemented such as the AES, Rabbit. our all encryptions tools are password protected i.e., they are encrypted using a key & are decrypted using the same key only.',
     // github: 'https://github.com/1hanzla100/developer-portfolio',
-    Screenshots: '/img/icons/common/fifth.png',
+    // Screenshots: '/img/icons/common/fifth.png',
     link: 'https://play.google.com/store/apps/details?id=com.inlock.app',
   },
 ];
