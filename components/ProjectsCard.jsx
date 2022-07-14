@@ -11,7 +11,7 @@ const ProjectsCard = ({ data }) => {
         <Card className='shadow-lg--hover shadow mt-4'>
           <CardBody>
             <h3>{data.name}</h3>
-            <img
+            {/* <img
               src={data.Screenshots}
               style={{
                 objectFit: 'cover',
@@ -27,7 +27,7 @@ const ProjectsCard = ({ data }) => {
               }}
               className='shadow mb-3'
               alt={data.companylogo}
-            />
+            /> */}
             <div className='d-flex px-3'>
               <div className='pl-4'>
                 <p className='description mt-3'>{data.desc}</p>
