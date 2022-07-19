@@ -19,7 +19,7 @@ export const socialLinks = {
   instagram: 'https://www.instagram.com/faiz_yousuf_zai/',
   twitter: 'https://twitter.com/Alfaiz_khan789',
   github: 'https://github.com/faizkhan7896',
-  linkedin: 'https://www.linkedin.com/in/alfaiz-khan-94647b202/?original_referer=',
+  linkedin: 'https://www.linkedin.com/in/alfaiz-khan-94647b202/',
 };
 
 export const skillsSection = {
@@ -37,14 +37,6 @@ export const skillsSection = {
         // emoji('⚡ Building RESTful APIs in Django & Django REST Framework'),
       ],
       softwareSkills: [
-        // {
-        //   skillName: 'HTML-5',
-        //   fontAwesomeClassname: 'vscode-icons:file-type-html',
-        // },
-        // {
-        //   skillName: 'CSS-3',
-        //   fontAwesomeClassname: 'vscode-icons:file-type-css',
-        // },
         {
           skillName: 'JavaScript',
           fontAwesomeClassname: 'logos:javascript',
@@ -53,18 +45,6 @@ export const skillsSection = {
           skillName: 'ReactNative',
           fontAwesomeClassname: 'vscode-icons:file-type-reactjs',
         },
-        // {
-        //   skillName: 'Nextjs',
-        //   fontAwesomeClassname: 'vscode-icons:file-type-light-next',
-        // },
-        // {
-        //   skillName: 'Python',
-        //   fontAwesomeClassname: 'logos:python',
-        // },
-        // {
-        //   skillName: 'Django',
-        //   fontAwesomeClassname: 'vscode-icons:file-type-django',
-        // },
 
         {
           skillName: 'Redux',
